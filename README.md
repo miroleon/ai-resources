@@ -26,7 +26,7 @@ This is a list of resources I've used to learn and teach AI. Helpful suggestions
 - Make suggestions for the list on [Discord](https://discord.gg/pxv5fzmShE)!
 - ...more to come...
 
-The other resource lists include [Web Design](), [3D Rendering](), and [AI Resources]().
+The other resource lists include [Web Design](https://miroleon.github.io/webdesign-resources/), [3D Rendering](), and [Three.js Resources](https://miroleon.github.io/threejs-resources/).
 
 ---
 
